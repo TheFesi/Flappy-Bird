@@ -1,6 +1,6 @@
 # Flappy Bird
 <br> This game developed by Ali Fassahat.
-Technologies: Unity Engine, C#
+<br> Technologies: Unity Engine, C#
 Unity Version: 2021.3.0f1
 
 Used Game Patterns:
